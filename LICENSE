@@ -27,15 +27,19 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 -------------------------------------------------------------------------------
-2. CHARACTER AND ART: Creative Commons Attribution 4.0 International (CC BY 4.0)
+2. CHARACTER AND ART: Creative Commons Attribution-NonCommercial 4.0
+   International (CC BY-NC 4.0)
    Applies to: the Sirena character and all art in this repository,
    including spritesheet.webp, docs/scenes.png and docs/preview.gif.
 -------------------------------------------------------------------------------
 
 Sirena (character and art) (c) 2026 Anita (BrandAlchemyStudio)
 
-You may share and adapt Sirena and her art, including commercially, as long
-as you give credit. Any use, copy or derivative must visibly credit her as:
+You may share and adapt Sirena and her art for non-commercial purposes only,
+as long as you give credit. You may NOT sell Sirena, her art or anything made
+from them, or use them in anything sold or used to make money, without
+Anita's written permission. Any use, copy or derivative must visibly credit
+her as:
 
     Sirena, created by Anita (BrandAlchemyStudio)
     https://github.com/BrandAlchemyStudio/sirena-orca-pet
@@ -43,4 +47,4 @@ as you give credit. Any use, copy or derivative must visibly credit her as:
 You must also say whether you changed the art, and must not suggest that
 Anita endorses you or your use.
 
-Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode

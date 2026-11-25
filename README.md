@@ -63,4 +63,4 @@ Restart her after editing.
 ## License
 
 - **Code:** [MIT](LICENSE). Use it, change it, ship it; keep the copyright notice.
-- **Sirena (character and art):** [CC BY 4.0](LICENSE). You can use and adapt her, but always credit her as **"Sirena, created by Anita (BrandAlchemyStudio)"** with a link to this repo.
+- **Sirena (character and art):** [CC BY-NC 4.0](LICENSE). You can use and adapt her for non-commercial purposes only (no selling her or using her in paid products), and always credit her as **"Sirena, created by Anita (BrandAlchemyStudio)"** with a link to this repo.
