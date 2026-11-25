@@ -10,7 +10,8 @@ Required Notice: Sirena, created by Anita (BrandAlchemyStudio). Commercial use o
 -------------------------------------------------------------------------------
 1. CODE: PolyForm Noncommercial License 1.0.0
    Applies to: sirena.py, sirena_hook.py, install_hooks.py, start-sirena.cmd,
-   requirements.txt and any other source code in this repository.
+   requirements.txt, pixel-agents/make_pet.py and any other source code in
+   this repository.
 -------------------------------------------------------------------------------
 
 # PolyForm Noncommercial License 1.0.0
@@ -91,7 +92,8 @@ The **licensor** is the individual or entity offering these terms, and the **sof
 2. CHARACTER AND ART: Creative Commons Attribution-NonCommercial 4.0
    International (CC BY-NC 4.0)
    Applies to: the Sirena character and all art in this repository,
-   including spritesheet.webp, docs/scenes.png and docs/preview.gif.
+   including spritesheet.webp, docs/scenes.png, docs/preview.gif and the
+   pixel-art Sirena in pixel-agents/ (pet.png and its previews).
 -------------------------------------------------------------------------------
 
 Sirena (character and art) (c) 2026 Anita (BrandAlchemyStudio)

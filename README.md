@@ -60,6 +60,10 @@ Restart her after editing.
 
 `spritesheet.webp` uses the Codex pet layout: 8 columns × 11 rows of 192×208 cells. Rows 0–8 are animations: idle, swim right, swim left, hello, hover, failed, shell bed, working, ready. Rows 9–10 are 16 look poses, clockwise from up. Sirena was designed by Anita in Codex, and her art was later touched up (redrawn octopus, cleaned shell) for this version.
 
+## Pixel Sirena (for Pixel Agents)
+
+A small pixel-art Sirena to keep as a pet in the [Pixel Agents](https://github.com/pixel-agents-hq/pixel-agents) office. See [pixel-agents/](pixel-agents/README.md).
+
 ## License
 
 Only Anita may sell Sirena or use her commercially. For anything commercial, ask her first.
