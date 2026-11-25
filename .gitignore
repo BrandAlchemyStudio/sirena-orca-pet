@@ -1,0 +1,9 @@
+# runtime files (per machine, may contain session ids and project names)
+config.json
+states/
+events.log
+events.log.old
+sirena.log
+__pycache__/
+spritesheet.before-*.webp
+*.bak*
