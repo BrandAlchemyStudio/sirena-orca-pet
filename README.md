@@ -59,3 +59,8 @@ Restart her after editing.
 ## Art
 
 `spritesheet.webp` uses the Codex pet layout: 8 columns × 11 rows of 192×208 cells. Rows 0–8 are animations: idle, swim right, swim left, hello, hover, failed, shell bed, working, ready. Rows 9–10 are 16 look poses, clockwise from up. Sirena was designed by Anita in Codex, and her art was later touched up (redrawn octopus, cleaned shell) for this version.
+
+## License
+
+- **Code:** [MIT](LICENSE). Use it, change it, ship it; keep the copyright notice.
+- **Sirena (character and art):** [CC BY 4.0](LICENSE). You can use and adapt her, but always credit her as **"Sirena, created by Anita (BrandAlchemyStudio)"** with a link to this repo.
